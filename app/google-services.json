@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "482671658452",
+    "firebase_url": "https://myticket-6ad80.firebaseio.com",
+    "project_id": "myticket-6ad80",
+    "storage_bucket": "myticket-6ad80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482671658452:android:1f824532bdbcc88d644241",
+        "android_client_info": {
+          "package_name": "com.hunhun.myticket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482671658452-ekvursdvhnco4ocg925ru31g2i5l5a9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-dW2MznIKcRinA6cmn6v4yo7jEJBkp-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482671658452-ekvursdvhnco4ocg925ru31g2i5l5a9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
